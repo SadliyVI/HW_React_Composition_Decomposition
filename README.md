@@ -11,4 +11,4 @@
 
 ![alt text](public/demo.jpg)
 
-<https://sadliyvi.github.io/HW_React_Composition_Decomposition>
+<https://sadliyvi.github.io/HW_React_Composition_Decomposition/>
